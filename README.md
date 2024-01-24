@@ -23,3 +23,6 @@ iv. Placing orders for a specific part, and
 
 Your system should exhibit robustness in handling client request. Additionally, consider error
 handling in both the server procedures and client commands.
+
+How to Run :
+To run the single client systems, open two terminals and compile using g++ std=c++11 filename.cpp -o filename
